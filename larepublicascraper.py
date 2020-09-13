@@ -67,6 +67,7 @@ def parse_home():
 
 
 def run():
+    ''' Run the web scraper '''
     start = time.time()
     local_time = time.ctime(start)
     print('Start: {}'.format(local_time))
