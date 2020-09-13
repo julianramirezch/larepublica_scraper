@@ -1,7 +1,7 @@
 <H1 align="center"> Larepublica Scraper </H1>
 
 <p align="center">
-   <a href="https://www.larepublica.co/"><img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/79001/368330_619080.png" width="170" height="170"/></a>
+   <a href="https://www.larepublica.co/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_la_republica.jpg" width="170" height="170"/></a>
 
 <p align="center"> 
    <b>Web Scraping</b>
