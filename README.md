@@ -1,7 +1,7 @@
 <H1 align="center"> Larepublica Scraper </H1>
 
 <p align="center">
-   <a href="https://www.larepublica.co/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_la_republica.jpg" width="190" height="170"/></a>
+   <a href="https://www.larepublica.co/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_la_republica.jpg" width="220" height="170"/></a>
 
 <p align="center"> 
    <b>Web Scraping</b>
@@ -12,6 +12,7 @@ La Republica is Colombian Economic Newspaper. The python script make web scrapin
 
 ### Requirement
 <code> git clone https://github.com/julianramirezch/larepublica_scraper.git </code>
+<br>
 <code> pip install -r requirements.txt </code>
 
 ### Use
